@@ -6,4 +6,4 @@
 4. Payment Gateway integration using Stripe.
 5. Hosted it Live on Netlify.
 
-LiVE Link : https://comfort-furnish.netlify.app
+LIVE Link : https://comfort-furnish.netlify.app
